@@ -35,4 +35,4 @@ Example parameters equal to what was used to send metrics to Influx/Grafana
 ## Note
 
 JMeter 3.1 does not "memoize" settings when you switch one listener to another, so be careful with 
-switching from Graphite to SignalFX and bax
+switching from Graphite to SignalFX and back
