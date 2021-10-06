@@ -68,7 +68,7 @@
         <dependency>
             <groupId>com.signalfx.public</groupId>
             <artifactId>signalfx-java</artifactId>
-            <version>0.0.39</version>
+            <version>1.0.12</version>
         </dependency>
 
 
